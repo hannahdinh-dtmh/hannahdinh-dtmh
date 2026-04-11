@@ -9,9 +9,13 @@
 I'm a ethical AI enthusiast passionate about turning data into insights and building practical apps that solve everyday problems.
 
 🔭 Currently working on Streamlit dashboards and educational tools
+
 🌱 Learning: Streamlit, web scraping, clustering algorithms, French 🇫🇷
+
 💬 Ask me about: Python, data visualization, Streamlit apps, e-commerce analytics
-📫 Reach me at: [your email or LinkedIn URL]
+
+📫 Reach me at: https://www.linkedin.com/in/hannah-dinh-66094019/
+
 ⚡ Fun fact: I'm building apps to help me learn French while exploring data science!
 
 ---
