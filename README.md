@@ -44,7 +44,7 @@ I'm a ethical AI enthusiast passionate about turning data into insights and buil
 
 ## 📌 Featured Projects
 
-### 🛒 [eBay Product Analytics Dashboard](https://github.com/hannahdinh-dtmh/ebay-products-dashboard)
+### 🛒 [eBay Product Analytics Dashboard](https://github.com/hannahdinh-dtmh/ebay-product-analytics-dashboard)
 
 > *Interactive Streamlit dashboard visualizing scraped eBay product data with trends, pricing insights, and filtering.*
 
@@ -55,55 +55,39 @@ A data-driven dashboard that scrapes product listings from eBay and displays act
 - ✅ Interactive filters by category, price range, and seller rating
 - ✅ Visual analytics for pricing trends and product distribution
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/ebay-products-dashboard)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/ebay-product-analytics-dashboard)
 
 ---
 
-### 📊 [K-Means Clustering Visualizer](https://github.com/hannahdinh-dtmh/kmeans-clustering-streamlit)
+### 🚚 [eBay Delivery Performance Analysis](https://github.com/hannahdinh-dtmh/ebay-delivery-performance-analysis)
 
-> *Streamlit app for interactive K-means clustering with customizable parameters and real-time visualization.*
+> *Data analysis project exploring eBay seller delivery metrics, shipping times, and performance patterns.*
 
-Explore clustering hands-on with an app that helps users understand how K-means groups data points.
+An analytical deep-dive into eBay delivery data to uncover trends in shipping speed, reliability, and seller performance across categories.
 
 **Key features:**
-- ✅ Upload custom datasets or use sample data
-- ✅ Adjust number of clusters interactively
-- ✅ Real-time cluster visualization
-- ✅ Elbow method support for choosing K
+- ✅ Delivery time breakdown by category and seller tier
+- ✅ Performance trend analysis with visual summaries
+- ✅ Insights into on-time vs. delayed shipment patterns
+- ✅ Clean visualizations built with Pandas and Plotly
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/kmeans-clustering-streamlit)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/ebay-delivery-performance-analysis)
 
 ---
 
-### 🇫🇷 [French Learning Companion](https://github.com/hannahdinh-dtmh/french-learning-app)
+### 💰 [Amazon vs. eBay Price Comparison](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)
 
-> *Daily vocabulary and grammar review app built with Streamlit to make French learning fun and consistent.*
+> *Side-by-side price comparison tool for the same products across Amazon and eBay.*
 
-A personalized learning tool for practicing French vocabulary and grammar through interactive exercises and progress tracking.
-
-**Key features:**
-- ✅ Daily vocabulary review
-- ✅ Grammar practice and learning notes
-- ✅ Progress tracking
-- ✅ Built to support consistent self-study
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/french-learning-app)
-
----
-
-### 📰 [News Feed Dashboard](https://github.com/hannahdinh-dtmh/news-feed-app)
-
-> *Curated news feed app that aggregates and displays personalized news from multiple sources.*
-
-A clean and simple dashboard for reading, filtering, and exploring current news in one place.
+A scraping and analysis tool that pulls product listings from both platforms and highlights where to find the best deals.
 
 **Key features:**
-- ✅ News aggregation from APIs or sources
-- ✅ Filter by topic, source, or date
-- ✅ Streamlit interface for easy browsing
-- ✅ Personalized reading experience
+- ✅ Cross-platform product price scraping
+- ✅ Side-by-side comparison with price difference metrics
+- ✅ Category-level and product-level views
+- ✅ Interactive Streamlit interface for browsing results
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/news-feed-app)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)
 
 ---
 
@@ -119,8 +103,6 @@ A future web app to save and visualize my favorite food places with addresses, p
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahdinh-dtmh&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahdinh-dtmh&layout=compact&hide_border=true)
-
-<!-- Replace "yourusername" above with your actual GitHub username -->
 
 ---
 
