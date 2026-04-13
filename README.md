@@ -14,13 +14,13 @@ I'm a ethical AI enthusiast passionate about turning data into insights and buil
 
 💬 Ask me about: Python, data visualization, Streamlit apps, e-commerce analytics
 
-📫 Reach me at: https://www.linkedin.com/in/hannah-dinh-66094019/
-
 ⚡ Fun fact: I'm building apps to help me learn French while exploring data science!
 
-My [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hannah.dinh)
+## 📫 Connect With Me
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-dinh-66094019)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannah.dinh42@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hannah.dinh)
 
 ---
 
