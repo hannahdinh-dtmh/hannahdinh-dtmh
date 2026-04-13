@@ -10,13 +10,13 @@ I'm a ethical AI enthusiast passionate about turning data into insights and buil
 
 🔭 Currently working on Streamlit dashboards and educational tools
 
-🌱 Learning: Streamlit, web scraping, clustering algorithms, French 🇫🇷
+🌱 Learning: Streamlit, web scraping, clustering algorithms, SQL, and French 🇫🇷
 
 💬 Ask me about: Python, data visualization, Streamlit apps, e-commerce analytics
 
 📫 Reach me at: https://www.linkedin.com/in/hannah-dinh-66094019/
 
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/72fa1d3e-2334-4b6e-9920-9e5856bad1a0" /> My Medium: https://medium.com/@hannah.dinh
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hannah.dinh)
 
 ⚡ Fun fact: I'm building apps to help me learn French while exploring data science!
 
@@ -75,7 +75,10 @@ An analytical deep-dive into eBay delivery data to uncover trends in shipping sp
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/ebay-delivery-performance-analysis)
 
+
 ---
+
+## 🔜 Coming Soon
 
 ### 💰 [Amazon vs. eBay Price Comparison](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)
 
@@ -91,13 +94,24 @@ A scraping and analysis tool that pulls product listings from both platforms and
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)
 
----
+### 📦 [E-commerce Customer Segmentation](...)
 
-## 🔜 Coming Soon
+> *RFM-based customer segmentation analysis using retail transaction data.*
 
-### 🍕 Favorite Food Places Map
+An analytics project applying RFM (Recency, Frequency, Monetary) analysis and K-means clustering to segment customers and generate business recommendations.
 
-A future web app to save and visualize my favorite food places with addresses, personal notes, and geo-tagged locations.
+### 🇫🇷 French Learning Companion
+
+> *Daily vocabulary and grammar review app built with Streamlit to make French learning consistent and fun.*
+
+A personal learning tool featuring flashcards, quizzes, and grammar exercises designed to build strong French language habits through daily practice.
+
+**Planned features:**
+- 🔲 Vocabulary flashcards with translations
+- 🔲 Daily grammar exercises
+- 🔲 Quiz mode with scoring
+- 🔲 Progress tracking over time
+
 
 ---
 
