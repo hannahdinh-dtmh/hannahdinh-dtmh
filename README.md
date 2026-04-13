@@ -16,7 +16,7 @@ I'm a ethical AI enthusiast passionate about turning data into insights and buil
 
 📫 Reach me at: https://www.linkedin.com/in/hannah-dinh-66094019/
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/72fa1d3e-2334-4b6e-9920-9e5856bad1a0" /> My Medium: https://medium.com/@hannah.dinh
+<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/72fa1d3e-2334-4b6e-9920-9e5856bad1a0" /> My Medium: https://medium.com/@hannah.dinh
 
 ⚡ Fun fact: I'm building apps to help me learn French while exploring data science!
 
