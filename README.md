@@ -105,7 +105,6 @@ A customer and logistics analytics project built on the Olist Brazilian e-commer
 
 | Project | Description | Status |
 |---|---|---|
-| 🇫🇷 French Learning Companion | Daily vocab, grammar quizzes, and progress tracking — built in Streamlit | 🔨 In progress |
 | 📦 Customer Segmentation Engine | RFM-based ML segmentation with clustering evaluation (Silhouette Index, Davies-Bouldin) | 🔨 Publish soon |
 
 ---
