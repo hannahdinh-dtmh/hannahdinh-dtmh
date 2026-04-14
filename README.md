@@ -82,26 +82,6 @@ An analytical deep-dive into eBay delivery data to uncover trends in shipping sp
 
 ## 🔜 Coming Soon
 
-### 💰 [Amazon vs. eBay Price Comparison](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)
-
-> *Side-by-side price comparison tool for the same products across Amazon and eBay.*
-
-A scraping and analysis tool that pulls product listings from both platforms and highlights where to find the best deals.
-
-**Key features:**
-- ✅ Cross-platform product price scraping
-- ✅ Side-by-side comparison with price difference metrics
-- ✅ Category-level and product-level views
-- ✅ Interactive Streamlit interface for browsing results
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)
-
-### 📦 [E-commerce Customer Segmentation](...)
-
-> *RFM-based customer segmentation analysis using retail transaction data.*
-
-An analytics project applying RFM (Recency, Frequency, Monetary) analysis and K-means clustering to segment customers and generate business recommendations.
-
 ### 🇫🇷 French Learning Companion
 
 > *Daily vocabulary and grammar review app built with Streamlit to make French learning consistent and fun.*
