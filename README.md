@@ -131,13 +131,6 @@ An exploration of how Design Science Research (DSR) methodology provides a rigor
 
 ---
 
-## 📊 GitHub Stats
-
-![Hannah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hannahdinh-dtmh&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahdinh-dtmh&layout=compact&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hannah-dinh-66094019)
