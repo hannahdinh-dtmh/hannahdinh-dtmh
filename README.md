@@ -1,6 +1,6 @@
 # Hi, I'm Hannah 👋
 
-**Data Analyst | Python · SQL · Streamlit · ML Segmentation**
+**Data Analyst | Business Analyst | Python · SQL · Streamlit · ML Segmentation**
 
 > Turning messy data into clear decisions — through dashboards, analytics, and applied machine learning.
 
@@ -10,9 +10,9 @@
 
 I'm an data & business analyst with a passion for building tools that make data accessible and decisions smarter. My work sits at the intersection of **business analytics, customer insights, and ethical AI** — I care not just about what the model says, but what it *means* for the business.
 
-- 🔭 **Currently building:** Customer segmentation models, e-commerce analytics dashboards, and Streamlit apps for real-world use cases
+- 🔭 **Currently building:** CPG sales analytics dashboards, cross-platform price intelligence tools, and customer segmentation models
 - 🧠 **Research interests:** AI/ML for customer segmentation, design science methodology, and responsible AI practices
-- 💬 **Ask me about:** Python, Streamlit, e-commerce analytics, clustering algorithms, sales & marketing effectiveness
+- 💬 **Ask me about:** Python, Streamlit, e-commerce analytics, CPG sales effectiveness, clustering algorithms, Amazon & eBay market intelligence
 - 🌱 **Always learning:** Advanced SQL, ML model evaluation, and French 🇫🇷
 
 ---
@@ -20,31 +20,36 @@ I'm an data & business analyst with a passion for building tools that make data 
 ## 🛠️ Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **Data & Scraping**
+
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat&logo=python&logoColor=white)
+![ScraperAPI](https://img.shields.io/badge/ScraperAPI-00C853?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🛒 eBay Product Analytics Dashboard
-**[Live App →](https://ebay-appuct-analytics-dashboard-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; `Python` `Streamlit` `Web Scraping` `Plotly`
+**[Live App →](https://ebay-appuct-analytics-dashboard-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/ebay-product-analytics-dashboard)** &nbsp;|&nbsp; `Python` `Streamlit` `Web Scraping` `Plotly`
 
 An end-to-end data pipeline that scrapes live eBay product listings and transforms them into an interactive business intelligence dashboard — giving sellers and analysts instant visibility into pricing trends, category performance, and market dynamics.
 
@@ -53,11 +58,11 @@ An end-to-end data pipeline that scrapes live eBay product listings and transfor
 - Interactive filters by category, price range, and seller rating
 - Visual analytics for pricing trends and product distribution across segments
 
-**Answer Business Questions:** 
+**Answer Business Questions:**
 - What does this marketplace look like at a glance?
 - How do products compare within and across families?
 - Which products sellers specialize in?
-  
+
 <details>
 <summary>📊 <strong>Deep Dive Analysis</strong> — What I Built & What I Learned</summary>
 
@@ -66,15 +71,13 @@ An end-to-end data pipeline that scrapes live eBay product listings and transfor
 > 🔍 **Key challenges:** Handling inconsistent HTML structure across eBay product pages required robust parsing logic and defensive error handling to avoid data gaps.
 >
 > 💡 **Key insight:** Price distribution varied significantly by category and seller rating tier, suggesting that seller reputation is a stronger price signal than category alone in some segments.
->
-
 
 </details>
 
 ---
 
 ### 🚚 Olist Customer Analytics
-**[Live App →](https://olist-customer-analytics-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; `Python` `Pandas` `Plotly` `Streamlit`
+**[Live App →](https://olist-customer-analytics-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/ebay-delivery-performance-analysis)** &nbsp;|&nbsp; `Python` `Pandas` `Plotly` `Streamlit`
 
 A customer and logistics analytics project built on the Olist Brazilian e-commerce dataset, surfacing insights into delivery performance, customer satisfaction, and seller reliability across categories.
 
@@ -84,8 +87,8 @@ A customer and logistics analytics project built on the Olist Brazilian e-commer
 - On-time vs. delayed shipment pattern detection
 - Clean, shareable visualizations built with Pandas and Plotly
 
-**Answer Business Questions:** 
-- Given this ecommerce customer journey from product discovery → purchase → delivery → retention, what's the insights into delivery-churn on top of RFM (Recency-Frequency-Monetary).
+**Answer Business Questions:**
+- Given this e-commerce customer journey from product discovery → purchase → delivery → retention, what's the insight into delivery-churn on top of RFM (Recency-Frequency-Monetary)?
 - Which seller segments and product categories drive the most delivery failures — giving operations and supply chain teams a clear prioritization framework.
 
 <details>
@@ -101,11 +104,99 @@ A customer and logistics analytics project built on the Olist Brazilian e-commer
 
 ---
 
+### 🔍 Amazon Personal Care — Share of Voice Dashboard
+**[Live App →](https://amazon-beauty-sov-fxq4ak7l4urq4dwpftga5y.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/amazon-personal-care-sov)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
+
+A live Amazon.com scraper and 4-tab Streamlit dashboard tracking brand visibility across 12 personal care search keywords — measuring organic vs. sponsored share of voice, price positioning, and category-level competitive dynamics.
+
+**What it does:**
+- Scrapes top 40 results per keyword (480 listings) from Amazon.com using ScraperAPI
+- Calculates **Share of Voice** per brand across the top 20 organic positions
+- Separates sponsored from organic placement to surface paid-dependency patterns
+- Compares average prices by brand, keyword, and sponsored vs. organic status
+
+**Answer Business Questions:**
+- Which brands dominate Amazon search organically — without relying on paid ads?
+- Which brands are buying visibility they can't sustain organically?
+- Where is the price vs. search position sweet spot for new product launches?
+
+<details>
+<summary>📊 <strong>Deep Dive Analysis</strong> — What I Built & What I Learned</summary>
+
+> ⚙️ **Technical approach:** ScraperAPI handles Amazon's bot detection; BeautifulSoup parses product title, position, sponsored flag, price, and rating. Brand extraction uses shared regex patterns across a curated `BRAND_PATTERNS` dictionary. SOV is calculated over the top 20 positions per keyword.
+>
+> 🔍 **Key challenges:** Amazon's HTML structure varies by product type, and sponsored vs. organic labeling required careful selector logic to avoid misclassification.
+>
+> 💡 **Key insight:** L'Oréal holds the highest organic SOV (7.1%) across all 12 keywords — driven by product breadth and review volume, not ad spend. Premium brands like Clinique appear almost exclusively in sponsored slots, signalling heavy paid dependency and weak organic equity.
+
+</details>
+
+---
+
+### 📊 CPG Sales Effectiveness Dashboard (Canada)
+**[Live App →](https://cpg-sales-effectiveness-eq8kknzrie9i7rkmkstbcx.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/cpg-sales-effectiveness)** &nbsp;|&nbsp; `Python` `Streamlit` `Pandas` `Plotly`
+
+An interactive 5-tab Streamlit dashboard simulating a Canadian CPG sales team's performance — tracking rep revenue, field execution, trade spend ROI, SKU distribution, and retail vendor scorecards across 8 major accounts and 12 SKUs over 26 weeks.
+
+**What it does:**
+- Tracks rep-level revenue, fill rate, and trade spend % by territory
+- Monitors planogram compliance, display compliance, OOS incidents, and perfect store scores
+- Calculates **promo ROI at the SKU × account level** to identify trade spend efficiency vs. baseline
+- Surfaces SKU distribution gaps and velocity opportunities across accounts
+- Tracks OTIF and vendor scorecard trends by retail account over time
+
+**Answer Business Questions:**
+- Where is trade spend generating real incremental revenue — and where is it just subsidising baseline purchases?
+- Which reps have field execution gaps that are silently dragging down sales velocity?
+- Which high-velocity SKUs are under-distributed, and what is the revenue opportunity from gaining new listings?
+
+<details>
+<summary>📊 <strong>Deep Dive Analysis</strong> — What I Built & What I Learned</summary>
+
+> ⚙️ **Technical approach:** Fully synthetic dataset generated with realistic CPG scenario logic — trade spend curves, promo lift multipliers, planogram compliance decay, and OTIF trend modeling. Promo ROI calculated at SKU × account level (not aggregate) to prevent high-velocity SKUs from masking weak performers.
+>
+> 🔍 **Key challenges:** Getting promo ROI right required calculating each promoted SKU's incremental revenue against its own non-promo baseline at the same account — a subtle but critical methodological distinction.
+>
+> 💡 **Key insight:** Loblaws receives 22% trade spend but generates only 1.17x promo ROI. Metro receives 12% trade spend and generates 4.73x ROI. Reallocating budget from bottom-quartile to top-quartile accounts is the single highest-impact lever available without increasing total spend.
+
+</details>
+
+---
+
+### 💰 Amazon vs eBay — Price Comparison Dashboard
+**[Live App →](https://amazon-ebay-price-comparison-9bdappz6qjzfyktcxvet4uc.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
+
+A dual-platform scraper and 4-tab Streamlit dashboard that compares real-time pricing for 12 beauty & personal care keywords across Amazon and eBay — surfacing brand-level price disparities and flagging gray market risk for CPG brands concerned about MAP enforcement.
+
+**What it does:**
+- Scrapes top 20 results per keyword from both Amazon.com and eBay simultaneously
+- Normalizes brand names across platforms using shared regex patterns
+- Compares average prices by brand and keyword across platforms
+- Flags brands where eBay is significantly cheaper as **gray market risk** (unauthorized resellers, MAP violations, or diversion)
+
+**Answer Business Questions:**
+- Are your products being sold cheaper on eBay than Amazon — and does that signal unauthorized reseller activity?
+- Which brands maintain consistent pricing across platforms, and which ones don't?
+- Where should a brand focus MAP enforcement efforts first?
+
+<details>
+<summary>📊 <strong>Deep Dive Analysis</strong> — What I Built & What I Learned</summary>
+
+> ⚙️ **Technical approach:** Two independent scrapers (one per platform) share a common `BRAND_PATTERNS` dictionary for consistent brand attribution. eBay brand extraction re-runs on cleaned titles at load time to remove UI artifacts and phantom brand labels — allowing fixes without re-scraping. Gray market risk threshold: eBay ≥15% cheaper than Amazon.
+>
+> 🔍 **Key challenges:** eBay redesigned its search results HTML in 2025 (switching from `li.s-item` to `li.s-card`), requiring selector updates. Title noise ("Opens in a new window or tab") and phantom brand matches required a two-stage cleaning pipeline.
+>
+> 💡 **Key insight:** Amazon is cheaper than eBay across all 12 keywords — the opposite of the common assumption. eBay skews toward bundles, niche imports, and specialty products. However, Estée Lauder (-62%), Clinique (-48%), and Tarte (-36%) show eBay prices well below Amazon, signalling active gray market risk for these brands.
+
+</details>
+
+---
+
 ### 🔜 Coming Soon
 
 | Project | Description | Status |
 |---|---|---|
-| 📦 Customer Segmentation Engine | RFM-based ML segmentation with clustering evaluation (Silhouette Index, Davies-Bouldin) | 🔨 Publish soon |
+| 📦 Customer Segmentation Engine | RFM-based ML segmentation with clustering evaluation (Silhouette Index, Davies-Bouldin) | 🔨 In progress |
 
 ---
 
@@ -133,10 +224,11 @@ An exploration of how Design Science Research (DSR) methodology provides a rigor
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hannah-dinh-66094019)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-dinh-66094019)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@hannah.dinh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huandnh@gmail.com)
 
 ---
 
 *Thanks for stopping by — feel free to explore my repos and reach out if you'd like to collaborate or chat about data! 🙌*
+
