@@ -11,7 +11,7 @@
 I'm an data & business analyst with a passion for building tools that make data accessible and decisions smarter. My work sits at the intersection of **business analytics, customer insights, and ethical AI** — I care not just about what the model says, but what it *means* for the business.
 
 - 🔭 **Currently building:** CPG sales analytics dashboards, cross-platform price intelligence tools, and customer segmentation models
-- 🧠 **Research interests:** AI/ML for customer segmentation, design science methodology, and responsible AI practices
+- 🧠 **Research interests:** AI/ML for segmentation, multi-sided platform (marketplace), dynamic pricing, design science methodology, and responsible AI practices
 - 💬 **Ask me about:** Python, Streamlit, e-commerce analytics, CPG sales effectiveness, clustering algorithms, Amazon & eBay market intelligence
 - 🌱 **Always learning:** Advanced SQL, ML model evaluation, and French 🇫🇷
 
