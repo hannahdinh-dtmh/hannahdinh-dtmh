@@ -162,6 +162,35 @@ An interactive 5-tab Streamlit dashboard simulating a Canadian CPG sales team's 
 </details>
 
 ---
+### 📦 CPG Demand Forecasting & Safety Stock Dashboard
+**[Live App →](https://cpg-demand-forecasting-bbsiohqdbbpaq4u6q6ol8c.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/cpg-demand-forecasting)** &nbsp;|&nbsp; `Python` `Prophet` `Streamlit` `Plotly`
+
+An end-to-end supply chain analytics tool for Canadian CPG sales teams — forecasting weekly SKU demand 16 weeks forward, calculating statistically optimal safety stock, and surfacing stockout risk before it becomes a retailer chargeback. Built on 2 years of synthetic weekly sales data across 5 SKUs, 3 accounts, and $6M in revenue with embedded OOS events and a Canadian promotional calendar.
+
+**What it does:**
+- Generates 2 years of synthetic weekly CPG sales data (1,560 rows) with realistic Canadian market seasonality, trend, and embedded business scenarios
+- Applies **Prophet multiplicative forecasting** (trend × seasonality × holidays) to produce 16-week forward forecasts with 90% confidence intervals
+- Calculates **safety stock per SKU** using the industry-standard formula: `Z × σ_demand × √(lead_time)` at 90–99% service levels
+- Builds a **stockout risk register** (🔴 High / 🟡 Medium / 🟢 Low) with calculated order-by dates
+- Visualises the **S&OP demand vs. supply gap** across all accounts with a demand-gap waterfall
+
+**Answer Business Questions:**
+- Which SKUs will stockout before the next replenishment cycle, and when exactly must the purchase order be placed?
+- How much safety stock is needed to hit 98% OTIF at Walmart Canada — and how does that change at 95% or 99%?
+- What does the demand gap between our forecast and supply plan look like over the next 16 weeks?
+- How much revenue was lost to the three OOS events last year, and what was the root cause of each?
+
+<details>
+<summary>📊 <strong>Deep Dive Analysis</strong> — What I Built & What I Learned</summary>
+
+  > ⚙️ **Technical approach:** Prophet multiplicative decomposition (`demand = trend × seasonality × holiday_effects × noise`) with Canadian statutory holidays and `changepoint_prior_scale=0.05`. OOS weeks are replaced with interpolated values before model fitting so Prophet learns true demand, not supply failures. Safety stock uses the Z-score formula at four configurable service levels; Walmart Canada's 98% OTIF threshold is the default.
+>
+> 🔍 **Key challenges:** Embedding realistic OOS events that the model must detect and forecast *through* — rather than treating zero-sales weeks as genuine demand drops — required careful preprocessing logic. Getting the seasonal decomposition right also meant validating the synthetic data's seasonal multipliers (e.g. Q4 peak factor = 1.53x, post-holiday dip = 0.70x) against Canadian CPG market norms before trusting the forecasts.
+>
+> 💡 **Key insight:** The three embedded OOS events cost $54,559 in lost revenue — with the Q4 HydraBoost stockout at Shoppers Drug Mart alone accounting for $36,062 (66% of total OOS losses). All three events shared the same root cause: safety stock was calculated against average demand but not adjusted for known seasonal spikes. A service-level-aware ROP that accounts for promotional lift would have prevented all three.
+</details>
+
+---
 
 ### 💰 Amazon vs eBay — Price Comparison Dashboard
 **[Live App →](https://amazon-ebay-price-comparison-9bdappz6qjzfyktcxvet4uc.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
