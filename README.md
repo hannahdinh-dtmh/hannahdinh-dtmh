@@ -49,7 +49,7 @@ I'm an data & business analyst with a passion for building tools that make data 
 ## 📌 Featured Projects
 
 ### 🛒 eBay Product Analytics Dashboard
-**[Live App →](https://ebay-appuct-analytics-dashboard-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/ebay-product-analytics-dashboard)** &nbsp;|&nbsp; `Python` `Streamlit` `Web Scraping` `Plotly`
+**[Live App →](https://ebay-appuct-analytics-dashboard-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/ebay-product-analytics-dashboard--README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `Web Scraping` `Plotly`
 
 An end-to-end data pipeline that scrapes live eBay product listings and transforms them into an interactive business intelligence dashboard — giving sellers and analysts instant visibility into pricing trends, category performance, and market dynamics.
 
@@ -77,7 +77,7 @@ An end-to-end data pipeline that scrapes live eBay product listings and transfor
 ---
 
 ### 🚚 Olist Customer Analytics
-**[Live App →](https://olist-customer-analytics-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/ebay-delivery-performance-analysis)** &nbsp;|&nbsp; `Python` `Pandas` `Plotly` `Streamlit`
+**[Live App →](https://olist-customer-analytics-hannahd-dtmh.streamlit.app/)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/olist-customer-analytics-README/tree/main)** &nbsp;|&nbsp; `Python` `Pandas` `Plotly` `Streamlit`
 
 A customer and logistics analytics project built on the Olist Brazilian e-commerce dataset, surfacing insights into delivery performance, customer satisfaction, and seller reliability across categories.
 
@@ -105,7 +105,7 @@ A customer and logistics analytics project built on the Olist Brazilian e-commer
 ---
 
 ### 🔍 Amazon Personal Care — Share of Voice Dashboard
-**[Live App →](https://amazon-beauty-sov-fxq4ak7l4urq4dwpftga5y.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/amazon-personal-care-sov)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
+**[Live App →](https://amazon-beauty-sov-fxq4ak7l4urq4dwpftga5y.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/amazon-beauty-sov-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
 
 A live Amazon.com scraper and 4-tab Streamlit dashboard tracking brand visibility across 12 personal care search keywords — measuring organic vs. sponsored share of voice, price positioning, and category-level competitive dynamics.
 
@@ -134,7 +134,7 @@ A live Amazon.com scraper and 4-tab Streamlit dashboard tracking brand visibilit
 ---
 
 ### 📊 CPG Sales Effectiveness Dashboard (Canada)
-**[Live App →](https://cpg-sales-effectiveness-eq8kknzrie9i7rkmkstbcx.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/cpg-sales-effectiveness)** &nbsp;|&nbsp; `Python` `Streamlit` `Pandas` `Plotly`
+**[Live App →](https://cpg-sales-effectiveness-eq8kknzrie9i7rkmkstbcx.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/cpg-sales-effectiveness-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `Pandas` `Plotly`
 
 An interactive 5-tab Streamlit dashboard simulating a Canadian CPG sales team's performance — tracking rep revenue, field execution, trade spend ROI, SKU distribution, and retail vendor scorecards across 8 major accounts and 12 SKUs over 26 weeks.
 
@@ -163,7 +163,7 @@ An interactive 5-tab Streamlit dashboard simulating a Canadian CPG sales team's 
 
 ---
 ### 📦 CPG Demand Forecasting & Safety Stock Dashboard
-**[Live App →](https://cpg-demand-forecasting-bbsiohqdbbpaq4u6q6ol8c.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/cpg-demand-forecasting)** &nbsp;|&nbsp; `Python` `Prophet` `Streamlit` `Plotly`
+**[Live App →](https://cpg-demand-forecasting-bbsiohqdbbpaq4u6q6ol8c.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/cpg-demand-forecasting-README/tree/main)** &nbsp;|&nbsp; `Python` `Prophet` `Streamlit` `Plotly`
 
 An end-to-end supply chain analytics tool for Canadian CPG sales teams — forecasting weekly SKU demand 16 weeks forward, calculating statistically optimal safety stock, and surfacing stockout risk before it becomes a retailer chargeback. Built on 2 years of synthetic weekly sales data across 5 SKUs, 3 accounts, and $6M in revenue with embedded OOS events and a Canadian promotional calendar.
 
@@ -193,7 +193,7 @@ An end-to-end supply chain analytics tool for Canadian CPG sales teams — forec
 ---
 
 ### 💰 Amazon vs eBay — Price Comparison Dashboard
-**[Live App →](https://amazon-ebay-price-comparison-9bdappz6qjzfyktcxvet4uc.streamlit.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
+**[Live App →](https://amazon-ebay-price-comparison-9bdappz6qjzfyktcxvet4uc.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
 
 A dual-platform scraper and 4-tab Streamlit dashboard that compares real-time pricing for 12 beauty & personal care keywords across Amazon and eBay — surfacing brand-level price disparities and flagging gray market risk for CPG brands concerned about MAP enforcement.
 
