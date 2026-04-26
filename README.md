@@ -105,8 +105,8 @@ A customer and logistics analytics project built on the Olist Brazilian e-commer
 ---
 
 ### 🔍 Amazon Personal Care — Share of Voice Dashboard
-**[Live App →](App is private for now, check README file instead)(https://amazon-beauty-sov-fxq4ak7l4urq4dwpftga5y.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/amazon-beauty-sov-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
-
+**[Live App →](https://amazon-beauty-sov-fxq4ak7l4urq4dwpftga5y.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/amazon-beauty-sov-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
+(App is private for now, check README file instead)
 A live Amazon.com scraper and 4-tab Streamlit dashboard tracking brand visibility across 12 personal care search keywords — measuring organic vs. sponsored share of voice, price positioning, and category-level competitive dynamics.
 
 **What it does:**
@@ -134,8 +134,8 @@ A live Amazon.com scraper and 4-tab Streamlit dashboard tracking brand visibilit
 ---
 
 ### 📊 CPG Sales Effectiveness Dashboard (Canada)
-**[Live App →](App is private for now, check README file instead)(https://cpg-sales-effectiveness-eq8kknzrie9i7rkmkstbcx.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/cpg-sales-effectiveness-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `Pandas` `Plotly`
-
+**[Live App →](https://cpg-sales-effectiveness-eq8kknzrie9i7rkmkstbcx.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/cpg-sales-effectiveness-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `Pandas` `Plotly`
+(App is private for now, check README file instead)
 An interactive 5-tab Streamlit dashboard simulating a Canadian CPG sales team's performance — tracking rep revenue, field execution, trade spend ROI, SKU distribution, and retail vendor scorecards across 8 major accounts and 12 SKUs over 26 weeks.
 
 **What it does:**
@@ -163,8 +163,8 @@ An interactive 5-tab Streamlit dashboard simulating a Canadian CPG sales team's 
 
 ---
 ### 📦 CPG Demand Forecasting & Safety Stock Dashboard
-**[Live App →](App is private for now, check README file instead)(https://cpg-demand-forecasting-bbsiohqdbbpaq4u6q6ol8c.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/cpg-demand-forecasting-README/tree/main)** &nbsp;|&nbsp; `Python` `Prophet` `Streamlit` `Plotly`
-
+**[Live App →](https://cpg-demand-forecasting-bbsiohqdbbpaq4u6q6ol8c.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/cpg-demand-forecasting-README/tree/main)** &nbsp;|&nbsp; `Python` `Prophet` `Streamlit` `Plotly`
+(App is private for now, check README file instead)
 An end-to-end supply chain analytics tool for Canadian CPG sales teams — forecasting weekly SKU demand 16 weeks forward, calculating statistically optimal safety stock, and surfacing stockout risk before it becomes a retailer chargeback. Built on 2 years of synthetic weekly sales data across 5 SKUs, 3 accounts, and $6M in revenue with embedded OOS events and a Canadian promotional calendar.
 
 **What it does:**
@@ -193,8 +193,8 @@ An end-to-end supply chain analytics tool for Canadian CPG sales teams — forec
 ---
 
 ### 💰 Amazon vs eBay — Price Comparison Dashboard
-**[Live App →](App is private for now, check README file instead)(https://amazon-ebay-price-comparison-9bdappz6qjzfyktcxvet4uc.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
-
+**[Live App →](https://amazon-ebay-price-comparison-9bdappz6qjzfyktcxvet4uc.streamlit.app)** &nbsp;|&nbsp; **[GitHub README →](https://github.com/hannahdinh-dtmh/amazon-ebay-price-comparison-README/tree/main)** &nbsp;|&nbsp; `Python` `Streamlit` `ScraperAPI` `BeautifulSoup` `Plotly`
+(App is private for now, check README file instead)
 A dual-platform scraper and 4-tab Streamlit dashboard that compares real-time pricing for 12 beauty & personal care keywords across Amazon and eBay — surfacing brand-level price disparities and flagging gray market risk for CPG brands concerned about MAP enforcement.
 
 **What it does:**
