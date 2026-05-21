@@ -1,6 +1,6 @@
 # Hi, I'm Hannah 👋
 
-**Data Analyst | Business Analyst | Python · SQL · Streamlit · ML Segmentation**
+**Strategy & Operation | Business Analyst | Python · Streamlit · ML Segmentation**
 
 > Turning messy data into clear decisions — through dashboards, analytics, and applied machine learning.
 
